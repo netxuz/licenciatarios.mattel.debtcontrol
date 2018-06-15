@@ -1,0 +1,5 @@
+Contrato;Marca;Categoria;SubCategoria;Moneda;Desc. Royalty;Royalty;BDI;Producto;Cliente;SKU;Descripcion Producto;Precio Unitario Venta Neta;Q Venta Neta;Precio Unitario Devolucion / Descuento;Q Devolucion
+EC115412;Barbie;Apparel;Swimwear -- Kids/Tweens;CLP;Standard;0,1;0,01;producto 1;cliente 1;;;432;432;;0
+EC115412;Barbie;Apparel;Swimwear -- Kids/Tweens;USD;FOB;0,15;0,01;producto 2;cliente 2;;;32;322;0;-1
+EC115412;Barbie;Apparel;Sleepwear -- Kids/Tweens;CLP;Standard;0,1;0,01;producto 3;cliente 3;;;32;2;0;0
+EC115412;Barbie;Apparel;Sleepwear -- Kids/Tweens;USD;FOB;0,15;0,01;producto 4;cliente 4;;;23;321;0;0

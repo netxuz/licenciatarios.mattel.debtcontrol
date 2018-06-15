@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Proyectos\DebtControl\Licencitarios\Entrega</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="adm/default.aspx">
+      <publishTime>12/28/2015 01:25:08</publishTime>
+    </File>
+    <File Include="adm/downloadfile.ashx">
+      <publishTime>05/06/2017 20:57:31</publishTime>
+    </File>
+    <File Include="adm/downloadlog.ashx">
+      <publishTime>05/07/2017 18:00:03</publishTime>
+    </File>
+    <File Include="adm/logeventos.aspx">
+      <publishTime>05/06/2017 21:11:52</publishTime>
+    </File>
+    <File Include="adm/lusuarios.aspx">
+      <publishTime>05/01/2016 17:35:23</publishTime>
+    </File>
+    <File Include="adm/madmcontratos.aspx">
+      <publishTime>05/30/2017 00:19:42</publishTime>
+    </File>
+    <File Include="adm/management.aspx">
+      <publishTime>05/23/2017 23:32:56</publishTime>
+    </File>
+    <File Include="adm/mcontrato.aspx">
+      <publishTime>06/25/2017 17:13:11</publishTime>
+    </File>
+    <File Include="adm/meliminafacturas.aspx">
+      <publishTime>05/03/2017 00:07:58</publishTime>
+    </File>
+    <File Include="adm/mparamemail.aspx">
+      <publishTime>09/01/2016 01:07:48</publishTime>
+    </File>
+    <File Include="adm/mserviciomensajeria.aspx">
+      <publishTime>01/31/2016 21:52:22</publishTime>
+    </File>
+    <File Include="adm/musuario.aspx">
+      <publishTime>10/07/2016 22:50:13</publishTime>
+    </File>
+    <File Include="aging_finanzas.aspx">
+      <publishTime>01/27/2016 00:43:26</publishTime>
+    </File>
+    <File Include="aging_licenciatario.aspx">
+      <publishTime>01/17/2016 20:04:01</publishTime>
+    </File>
+    <File Include="aprobacion_facturas.aspx">
+      <publishTime>01/17/2016 15:08:51</publishTime>
+    </File>
+    <File Include="aprobacion_facturas_advance.aspx">
+      <publishTime>07/04/2017 00:15:27</publishTime>
+    </File>
+    <File Include="aprobar_facturas_short_fall.aspx">
+      <publishTime>10/29/2016 14:19:45</publishTime>
+    </File>
+    <File Include="aprobar_facturas_short_fall_detalle.aspx">
+      <publishTime>07/31/2016 14:30:43</publishTime>
+    </File>
+    <File Include="avance-minimo-garantizado.aspx">
+      <publishTime>01/14/2016 01:13:51</publishTime>
+    </File>
+    <File Include="avance_minimo_garantizado_cliente.aspx">
+      <publishTime>07/16/2016 14:05:54</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>09/03/2016 21:07:18</publishTime>
+    </File>
+    <File Include="bin/ColorCode.dll">
+      <publishTime>02/28/2013 12:13:22</publishTime>
+    </File>
+    <File Include="bin/DebtControl.Conn.dll">
+      <publishTime>10/27/2017 13:35:41</publishTime>
+    </File>
+    <File Include="bin/DebtControl.Method.dll">
+      <publishTime>10/27/2017 13:35:39</publishTime>
+    </File>
+    <File Include="bin/DebtControl.Model.dll">
+      <publishTime>10/27/2017 13:35:42</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>09/01/2012 01:24:26</publishTime>
+    </File>
+    <File Include="bin/licenciatarios.mattel.debtcontrol.dll">
+      <publishTime>10/27/2017 19:21:55</publishTime>
+    </File>
+    <File Include="bin/Select.HtmlToPdf.dll">
+      <publishTime>05/29/2015 04:54:17</publishTime>
+    </File>
+    <File Include="bin/telerik.web.ui.dll">
+      <publishTime>06/24/2016 00:24:48</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.css">
+      <publishTime>03/18/2017 19:10:50</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.css.map">
+      <publishTime>03/18/2017 19:10:50</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.min.css">
+      <publishTime>03/18/2017 19:10:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.min.css.map">
+      <publishTime>03/18/2017 19:10:51</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css">
+      <publishTime>03/18/2017 19:10:52</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css.map">
+      <publishTime>03/18/2017 19:10:52</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>03/18/2017 19:10:53</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css.map">
+      <publishTime>03/18/2017 19:10:54</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/18/2017 19:10:54</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/18/2017 19:10:54</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/18/2017 19:10:54</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/18/2017 19:10:54</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/18/2017 19:10:54</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.js">
+      <publishTime>03/18/2017 19:10:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>03/18/2017 19:10:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/npm.js">
+      <publishTime>03/18/2017 19:10:56</publishTime>
+    </File>
+    <File Include="clientes_afacturar.aspx">
+      <publishTime>06/03/2017 21:42:05</publishTime>
+    </File>
+    <File Include="comprobante-pago-impuesto.aspx">
+      <publishTime>03/03/2016 09:24:16</publishTime>
+    </File>
+    <File Include="confirmacion_ingreso_ventas.aspx">
+      <publishTime>05/10/2017 01:10:29</publishTime>
+    </File>
+    <File Include="contacto.aspx">
+      <publishTime>01/14/2016 01:14:37</publishTime>
+    </File>
+    <File Include="contratos_afacturar_advance.aspx">
+      <publishTime>07/04/2017 00:12:58</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>04/02/2017 16:11:41</publishTime>
+    </File>
+    <File Include="download.ashx">
+      <publishTime>10/16/2016 18:45:28</publishTime>
+    </File>
+    <File Include="downloadcomprobantesii.ashx">
+      <publishTime>01/23/2016 21:38:29</publishTime>
+    </File>
+    <File Include="downloadfactura.ashx">
+      <publishTime>01/03/2016 19:42:45</publishTime>
+    </File>
+    <File Include="DownloadGrid.ashx">
+      <publishTime>11/28/2015 17:56:50</publishTime>
+    </File>
+    <File Include="downloadmanual.ashx">
+      <publishTime>01/05/2016 01:52:54</publishTime>
+    </File>
+    <File Include="downloadreporting.ashx">
+      <publishTime>01/24/2016 21:13:01</publishTime>
+    </File>
+    <File Include="error_ingreso_venta.aspx">
+      <publishTime>05/10/2017 01:17:44</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/10/2015 12:10:43</publishTime>
+    </File>
+    <File Include="images/bg_naranja.gif">
+      <publishTime>10/10/2015 17:08:33</publishTime>
+    </File>
+    <File Include="images/bienvenida.png">
+      <publishTime>10/31/2015 15:51:09</publishTime>
+    </File>
+    <File Include="images/biglogo-mattel.png">
+      <publishTime>10/17/2015 12:29:59</publishTime>
+    </File>
+    <File Include="images/bloque1.jpg">
+      <publishTime>12/06/2015 20:55:53</publishTime>
+    </File>
+    <File Include="images/bloque2.jpg">
+      <publishTime>12/06/2015 20:55:53</publishTime>
+    </File>
+    <File Include="images/btn_pencil1.jpg">
+      <publishTime>12/08/2015 18:35:23</publishTime>
+    </File>
+    <File Include="images/btn_pencil2.jpg">
+      <publishTime>12/08/2015 18:35:23</publishTime>
+    </File>
+    <File Include="images/Chile.png">
+      <publishTime>10/17/2015 14:44:13</publishTime>
+    </File>
+    <File Include="images/download.png">
+      <publishTime>05/06/2017 20:48:31</publishTime>
+    </File>
+    <File Include="images/hdr-bg-ini.jpg">
+      <publishTime>10/17/2015 12:57:26</publishTime>
+    </File>
+    <File Include="images/hdr-bg.gif">
+      <publishTime>10/10/2015 17:08:30</publishTime>
+    </File>
+    <File Include="images/image226.png">
+      <publishTime>10/29/2015 01:43:50</publishTime>
+    </File>
+    <File Include="images/img_portal.jpg">
+      <publishTime>01/17/2016 19:31:36</publishTime>
+    </File>
+    <File Include="images/loading01.gif">
+      <publishTime>03/03/2016 08:07:24</publishTime>
+    </File>
+    <File Include="images/logo-foot.png">
+      <publishTime>01/12/2016 00:45:10</publishTime>
+    </File>
+    <File Include="images/mattel-factura.jpg">
+      <publishTime>12/06/2015 20:30:59</publishTime>
+    </File>
+    <File Include="images/mattel-logo.gif">
+      <publishTime>10/10/2015 17:09:01</publishTime>
+    </File>
+    <File Include="images/pdf150.jpg">
+      <publishTime>12/08/2015 16:39:47</publishTime>
+    </File>
+    <File Include="images/pdf250.jpg">
+      <publishTime>12/08/2015 16:39:57</publishTime>
+    </File>
+    <File Include="ingreso_ventas.aspx">
+      <publishTime>05/10/2017 01:10:20</publishTime>
+    </File>
+    <File Include="ingreso_ventas_old.aspx">
+      <publishTime>05/01/2017 18:08:52</publishTime>
+    </File>
+    <File Include="invoice.html">
+      <publishTime>11/01/2016 18:42:43</publishTime>
+    </File>
+    <File Include="invoicetwopage.html">
+      <publishTime>11/01/2016 18:43:04</publishTime>
+    </File>
+    <File Include="licenciatarios.aspx">
+      <publishTime>11/27/2015 22:36:15</publishTime>
+    </File>
+    <File Include="rechazo_factura.aspx">
+      <publishTime>12/27/2015 17:36:04</publishTime>
+    </File>
+    <File Include="rechazo_factura_q.aspx">
+      <publishTime>06/03/2017 21:34:34</publishTime>
+    </File>
+    <File Include="rechazo_factura_shortfall.aspx">
+      <publishTime>08/02/2016 00:36:44</publishTime>
+    </File>
+    <File Include="redirection.htm">
+      <publishTime>11/07/2015 19:52:09</publishTime>
+    </File>
+    <File Include="reporte-ventas-mensuales.aspx">
+      <publishTime>12/03/2015 02:03:00</publishTime>
+    </File>
+    <File Include="reporte_ventas.aspx">
+      <publishTime>10/13/2016 22:47:52</publishTime>
+    </File>
+    <File Include="reporte_ventas_finanzas.aspx">
+      <publishTime>11/01/2016 19:27:10</publishTime>
+    </File>
+    <File Include="reporting_regional.aspx">
+      <publishTime>03/05/2016 21:02:18</publishTime>
+    </File>
+    <File Include="Resources/lib/jquery-1.10.1.min.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/lib/jquery-1.9.0.min.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/lib/jquery.mousewheel-3.0.6.pack.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/Mattel Manual Licenciatarios.pdf">
+      <publishTime>01/14/2016 23:12:22</publishTime>
+    </File>
+    <File Include="Resources/source/blank.gif">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/fancybox_loading%402x.gif">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/fancybox_loading.gif">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/fancybox_overlay.png">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/fancybox_sprite%402x.png">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/fancybox_sprite.png">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/helpers/fancybox_buttons.png">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/helpers/jquery.fancybox-buttons.css">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/helpers/jquery.fancybox-buttons.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/helpers/jquery.fancybox-media.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/helpers/jquery.fancybox-thumbs.css">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/helpers/jquery.fancybox-thumbs.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/jquery.fancybox.css">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/jquery.fancybox.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="Resources/source/jquery.fancybox.pack.js">
+      <publishTime>06/14/2013 01:12:28</publishTime>
+    </File>
+    <File Include="resumen_contrato.aspx">
+      <publishTime>02/19/2016 22:21:17</publishTime>
+    </File>
+    <File Include="status-facturas.aspx">
+      <publishTime>01/17/2016 19:39:55</publishTime>
+    </File>
+    <File Include="status_facturas_finanzas.aspx">
+      <publishTime>04/03/2017 23:52:00</publishTime>
+    </File>
+    <File Include="style/admstyle.css">
+      <publishTime>06/15/2017 23:18:08</publishTime>
+    </File>
+    <File Include="style/style.css">
+      <publishTime>05/10/2017 01:22:25</publishTime>
+    </File>
+    <File Include="test.aspx">
+      <publishTime>11/21/2015 20:22:27</publishTime>
+    </File>
+    <File Include="testmail.aspx">
+      <publishTime>01/12/2016 00:15:41</publishTime>
+    </File>
+    <File Include="tipo_cambio.aspx">
+      <publishTime>05/31/2017 22:53:59</publishTime>
+    </File>
+    <File Include="ventas_ingresadas.aspx">
+      <publishTime>05/10/2017 01:10:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/11/2016 22:28:21</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/12/2016 00:02:15</publishTime>
+    </File>
+    <File Include="WebSQL.aspx">
+      <publishTime>04/12/2016 00:00:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

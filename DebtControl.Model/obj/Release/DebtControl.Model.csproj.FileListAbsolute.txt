@@ -1,0 +1,9 @@
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\bin\Release\DebtControl.Model.dll
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\bin\Release\DebtControl.Model.pdb
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\bin\Release\DebtControl.Conn.dll
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\bin\Release\DebtControl.Method.dll
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\bin\Release\DebtControl.Conn.pdb
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\bin\Release\DebtControl.Method.pdb
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\obj\Release\DebtControl.Model.csprojResolveAssemblyReference.cache
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\obj\Release\DebtControl.Model.dll
+C:\Proyectos\licenciatarios.mattel.debtcontrol\DebtControl.Model\obj\Release\DebtControl.Model.pdb

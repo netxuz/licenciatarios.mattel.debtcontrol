@@ -1,0 +1,6 @@
+Contrato;Marca;Categoria;SubCategoria;Moneda;Desc. Royalty;Royalty;BDI;Producto;Cliente;SKU;Descripcion Producto;Precio Unitario Venta Neta;Q Venta Neta;Precio Unitario Devolucion / Descuento;Q Devolucion
+EC126778;Barbie;Apparel;;CLP;Direct to Consumer;0,06;0,01;p1;cli1;sku;desc1;4800000;1;0;0
+EC126778;Barbie;Footwear;;CLP;Direct to Consumer;0,06;0,01;p2;cli2;sku;desc2;507000;1;0;0
+EC126778;Barbie;HBA;;CLP;Direct to Consumer;0,06;0,01;p3;cli3;sku;desc3;0;0;0;0
+EC126778;Hot Wheels;Apparel;;CLP;Direct to Consumer;0,06;0,01;p4;cli4;sku;desc4;4000000;1;0;0
+EC126778;Hot Wheels;Footwear;;CLP;Direct to Consumer;0,06;0,01;p5;cli5;sku;desc5;0;0;0;0

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "licenciatarios.mattel.debtcontrol", "licenciatarios.mattel.debtcontrol\licenciatarios.mattel.debtcontrol.csproj", "{0211D243-CCAE-4541-83AE-FA55526A9D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebtControl.Method", "DebtControl.Method\DebtControl.Method.csproj", "{FE8DAB86-F283-4E9C-BBCA-477D95463FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebtControl.Conn", "DebtControl.Conn\DebtControl.Conn.csproj", "{A28FED98-5074-45FC-A90A-6FA0C3461F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebtControl.Model", "DebtControl.Model\DebtControl.Model.csproj", "{3DB6507E-F561-41BC-9CDE-4B27B6E3DD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0211D243-CCAE-4541-83AE-FA55526A9D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0211D243-CCAE-4541-83AE-FA55526A9D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0211D243-CCAE-4541-83AE-FA55526A9D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0211D243-CCAE-4541-83AE-FA55526A9D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8DAB86-F283-4E9C-BBCA-477D95463FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8DAB86-F283-4E9C-BBCA-477D95463FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8DAB86-F283-4E9C-BBCA-477D95463FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8DAB86-F283-4E9C-BBCA-477D95463FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28FED98-5074-45FC-A90A-6FA0C3461F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28FED98-5074-45FC-A90A-6FA0C3461F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28FED98-5074-45FC-A90A-6FA0C3461F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28FED98-5074-45FC-A90A-6FA0C3461F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB6507E-F561-41BC-9CDE-4B27B6E3DD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB6507E-F561-41BC-9CDE-4B27B6E3DD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB6507E-F561-41BC-9CDE-4B27B6E3DD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB6507E-F561-41BC-9CDE-4B27B6E3DD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

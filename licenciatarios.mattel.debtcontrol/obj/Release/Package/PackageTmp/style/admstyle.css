@@ -1,0 +1,162 @@
+﻿body {
+  margin: 10px;
+  padding: 0px;
+  font-family: 'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+  color: #797979 !important;
+}
+
+.bodyadm {
+  margin: 10px!important;
+  padding: 0px!important;
+  font-family: 'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif!important;
+  color: #797979 !important;
+}
+
+#btnBuscar {
+  border: 0px;
+  width: 100px;
+  background-color: #D12320;
+  color: #fff;
+  font-family: 'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-weight: bold;
+  line-height: 29px;
+  border-radius: 3px;
+  cursor: pointer;
+  cursor: hand;
+}
+
+#btnTerminar, #btnAbrir {
+  border: 0px;
+  width: 150px;
+  background-color: #D12320;
+  color: #fff;
+  font-family: 'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-weight: bold;
+  line-height: 29px;
+  border-radius: 3px;
+  cursor: pointer;
+  cursor: hand;
+  margin-bottom: 10px;
+}
+
+#btnCrear, #btnGrabar, #btnSave, #btnAprobar, #btnVolver {
+  border: 0px;
+  width: 100px;
+  background-color: #D12320;
+  color: #fff;
+  font-family: 'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-weight: bold;
+  line-height: 29px;
+  border-radius: 3px;
+  cursor: pointer;
+  cursor: hand;
+  margin-bottom: 10px;
+}
+
+.btnGrid {
+  border: 0px;
+  width: 80px;
+  background-color: #D12320;
+  color: #fff;
+  font-family: 'proxima-nova','Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-weight: bold;
+  line-height: 20px;
+  border-radius: 3px;
+  cursor: pointer;
+  cursor: hand;
+}
+
+.styleTxtSearch {
+  width: 300px;
+  font-size: 14px;
+  color: #797979;
+  padding: 5px 5px 5px 5px;
+}
+
+.styleTxtMan {
+  width: 200px;
+  font-size: 14px;
+  color: #797979;
+  padding: 5px 5px 5px 5px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.styleTxtLicenciatario {
+  width: 400px;
+  font-size: 14px;
+  color: #797979;
+  padding: 5px 5px 5px 5px;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.styleBoxSelect {
+  width: 200px;
+  font-size: 14px;
+  color: #797979;
+  padding: 5px 5px 5px 5px;
+}
+
+.styleBoxSelectLicenciatario {
+  width: 400px;
+  font-size: 14px;
+  color: #797979;
+  padding: 5px 5px 5px 5px;
+}
+
+#rdCmbLicencitarios {
+  width: 200px!important;
+  font-size: 14px!important;
+  color: #797979!important;
+  padding: 5px 5px 5px 5px!important;
+}
+.BloqueMenu {
+  padding: 10px 10px 10px 0px!important;
+}
+.lblTitulo {
+  padding: 0px 10px 10px 0px!important;
+}
+.lblTitle {
+  font-weight:bold;
+}
+.bloque-left {
+  float:left;
+  width:600px;
+  margin-right : 20px;
+}
+.Botonera {
+  padding:20px 10px 10px 10px;
+}
+
+.RadGrid_Sitefinity .rgRow a, .RadGrid_Sitefinity .rgAltRow a, .RadGrid_Sitefinity .rgEditRow a, .RadGrid_Sitefinity .rgFooter a, .RadGrid_Sitefinity .rgEditForm a {
+  color:#D9534F!important;
+}
+
+.RadGrid_Sitefinity .rgNumPart a {
+  color:#D9534F!important;
+}
+
+#divAprobar {
+  float:left;
+  margin-right:10px;
+}
+
+.blq-left {
+  float:left;
+  margin-right:10px;
+}
+.blq-left-top {
+  float:left;
+  margin-right:10px;
+  width:300px;
+}
+#lnkButton {
+  color:#D12320!important;
+  text-decoration:underline;
+}
+
+#divTerminar, #divAbrir {
+  float: left;
+  margin-right: 10px;
+}
